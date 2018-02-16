@@ -2,6 +2,7 @@
 
 This system for [Generating QR Codes](https://github.com/Mohamed-Ali-Mohamed/QR-Codes-Attendance-System/blob/master/main_run/run_generator.py) and [Collecting Attendance](https://github.com/Mohamed-Ali-Mohamed/QR-Codes-Attendance-System/blob/master/main_run/run_attendance.py).
 
+You can watch [demo](https://youtu.be/HvhKS2o4gug)
 
 Notes:
 
